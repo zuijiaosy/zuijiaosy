@@ -16,8 +16,3 @@ Rust · Swift · Go · TypeScript, with Tauri, SwiftUI and single-binary deploys
 | [Gotify Mac](https://github.com/zuijiaosy/gotify-mac) | Gotify 原生 macOS 菜单栏客户端，零第三方依赖。<br>Native Gotify menu-bar client for macOS. | Swift · SwiftUI |
 | [Gotify Android](https://github.com/zuijiaosy/gotify-android) | Gotify 极简安卓客户端。<br>Minimal Gotify client for Android. | Kotlin · Compose |
 | [go-shadcn-demo](https://github.com/zuijiaosy/go-shadcn-demo) | Go + shadcn/ui 全栈模板，前端编译后嵌入单个二进制。<br>Go + shadcn/ui full-stack template that ships as one binary. | Go · React |
-
-## 联系 · Contact
-
-欢迎在上面任意仓库提 Issue 或参与讨论。
-Issues and discussions are welcome on any repo above.
